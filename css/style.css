@@ -1,0 +1,24 @@
+
+main, footer{
+    background-color: cornsilk;
+}
+#carouselspace{
+    width: 50%;
+    height: 50%;
+}
+.carousel-item{
+    width:100%;
+    height: 600px;
+    overflow:hidden;
+}
+.carousel-inner img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+}
+footer {
+    text-align: center;
+    font-size: 0.85em;
+    color: indigo;
+    padding: 1% 0;
+}
