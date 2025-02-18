@@ -2,6 +2,9 @@
 main, footer{
     background-color: cornsilk;
 }
+a:hover{
+    background-color: deepskyblue;
+}
 #carouselspace{
     width: 50%;
     height: 50%;
